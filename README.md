@@ -3,15 +3,15 @@ en-gb spellings of words in the Phoenix theory (as opposed to their en-us counte
 
 
 ### Words with Questionable Pronounciation in British
-Serum
-Sheriff
-Forum
-Syrup
-Nauseous
-Cherub
-Squirrel
- arid
- Parish
+- Serum
+- Sheriff
+- Forum
+- Syrup
+- Nauseous
+- Cherub
+- Squirrel
+- arid
+- Parish
 
 ### Other Notes
 
